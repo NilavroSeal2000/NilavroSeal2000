@@ -1,5 +1,5 @@
 ## Hello Everyone 👋 
-### I'm # Nilavro Seal
+### I'm Nilavro Seal
 
 <!--
 **NilavroSeal2000/NilavroSeal2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
