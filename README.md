@@ -1,5 +1,5 @@
-### Hello Everyone 👋 
-## I am Nilavro Seal
+## Hello Everyone 👋 
+### I'm # Nilavro Seal
 
 <!--
 **NilavroSeal2000/NilavroSeal2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 I'm pursuing Bachelore of Technology in Computer Science
 - 👨‍💻 Exploring new Technology
 - 😍 Interesed in App Development
-- 📫 How to reach me: You can send a mail to ' nilavroseal@gmail.com '
+- 😊 Reach out to me on linkedin https://www.linkedin.com/in/nilavro-seal-55a155206/
+- 📫 How to reach me: You can send mail to nilavroseal@gmail.com 
+
 
