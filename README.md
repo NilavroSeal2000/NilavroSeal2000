@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Exploring new Technology
 - 😍 Interesed in App Development
 - 😊 Reach out to me on linkedin https://www.linkedin.com/in/nilavro-seal-55a155206/
-- 📫 How to reach me: You can send mail to nilavroseal@gmail.com 
+- 📫 You can send mail to nilavroseal@gmail.com 
 
 
